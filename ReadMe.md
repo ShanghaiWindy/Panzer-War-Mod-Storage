@@ -287,6 +287,20 @@ Size:6.80MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-AMX_54_modpack.modpack?raw=true)
 
+### Android_Vehicle-B-C_25t_Escorpion
+
+
+Size:12.21MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-B-C_25t_Escorpion.modpack?raw=true)
+
+### Android_Vehicle-Bat-Chat_25t-AP
+
+
+Size:10.49MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-Bat-Chat_25t-AP.modpack?raw=true)
+
 ### Android_Vehicle-Black_Prince
 
 
@@ -318,7 +332,7 @@ Platform:Android
 ### Android_Vehicle-Charioteer
 
 
-Size:5.80MB
+Size:9.35MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-Charioteer.modpack?raw=true)
 
@@ -367,7 +381,7 @@ Platform:Android
 ### Android_Vehicle-FV304
 
 
-Size:4.53MB
+Size:8.75MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-FV304.modpack?raw=true)
 
@@ -420,12 +434,26 @@ Size:4.87MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-Luchs.modpack?raw=true)
 
+### Android_Vehicle-M51-Supersherman
+
+
+Size:15.44MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-M51-Supersherman.modpack?raw=true)
+
 ### Android_Vehicle-Object_726
 
 
 Size:6.25MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-Object_726.modpack?raw=true)
+
+### Android_Vehicle-Object_752
+
+
+Size:13.22MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-Object_752.modpack?raw=true)
 
 ### Android_Vehicle-Pantera_M10_modpack
 
@@ -461,6 +489,13 @@ Platform:Android
 Size:5.20MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-T-34-85_S_modpack.modpack?raw=true)
+
+### Android_Vehicle-T29
+
+
+Size:9.93MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-T29.modpack?raw=true)
 
 ### Android_Vehicle-T2Light_modpack
 
@@ -503,6 +538,13 @@ Platform:Android
 Size:14.20MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-TAM_modpack.modpack?raw=true)
+
+### Android_Vehicle-Typ_205-Maus
+
+
+Size:11.82MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-Typ_205-Maus.modpack?raw=true)
 
 ### Android_Vehicle-UDES_14_ALT_5_modpack_modpack_modpack
 
@@ -686,6 +728,20 @@ Size:2.90MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_somua_s35_modpack.modpack?raw=true)
 
+### StandaloneWindows64_Vehicle-B-C_25t_Escorpion
+
+
+Size:9.71MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-B-C_25t_Escorpion.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-Bat-Chat_25t-AP
+
+
+Size:10.98MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-Bat-Chat_25t-AP.modpack?raw=true)
+
 ### StandaloneWindows64_Vehicle-Black_Prince
 
 
@@ -717,7 +773,7 @@ Platform:Windows
 ### StandaloneWindows64_Vehicle-Charioteer
 
 
-Size:6.73MB
+Size:9.93MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-Charioteer.modpack?raw=true)
 
@@ -766,7 +822,7 @@ Platform:Windows
 ### StandaloneWindows64_Vehicle-FV304
 
 
-Size:5.30MB
+Size:8.83MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-FV304.modpack?raw=true)
 
@@ -819,12 +875,26 @@ Size:5.34MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-Luchs.modpack?raw=true)
 
+### StandaloneWindows64_Vehicle-M51-Supersherman
+
+
+Size:13.45MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-M51-Supersherman.modpack?raw=true)
+
 ### StandaloneWindows64_Vehicle-Object_726
 
 
 Size:7.24MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-Object_726.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-Object_752
+
+
+Size:13.52MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-Object_752.modpack?raw=true)
 
 ### StandaloneWindows64_Vehicle-Pantera_M10_modpack
 
@@ -860,6 +930,13 @@ Platform:Windows
 Size:5.47MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-T-34-85_S_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-T29
+
+
+Size:10.71MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-T29.modpack?raw=true)
 
 ### StandaloneWindows64_Vehicle-T2Light_modpack
 
@@ -902,6 +979,13 @@ Platform:Windows
 Size:9.48MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-TAM_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-Typ_205-Maus
+
+
+Size:9.35MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-Typ_205-Maus.modpack?raw=true)
 
 ### StandaloneWindows64_Vehicle-UDES_14_ALT_5_modpack
 
