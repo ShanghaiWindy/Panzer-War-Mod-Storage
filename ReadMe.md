@@ -1922,13 +1922,6 @@ Platform:Windows
 
 ## ToolMan-23
 
-### Android_Vehicle-Koenigsegg-Agera
-
-
-Size:4.71MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/ToolMan-23/Android_Vehicle-Koenigsegg-Agera.modpack?raw=true)
-
 ### Android_Vehicle-M1A1-Abrams
 
 
