@@ -1563,6 +1563,13 @@ Size:2.87MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-Obj907.modpack?raw=true)
 
+### Android_Vehicle-Panther_II
+
+
+Size:12.24MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-Panther_II.modpack?raw=true)
+
 ### Android_Vehicle-Progetto-46
 
 
